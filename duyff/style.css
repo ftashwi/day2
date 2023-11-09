@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+
+body{
+    background-image:url(./image/OIP.jpeg);
+    background-size: cover;
+}
+header{
+    background-color: rgb(0, 0, 0);
+}
+#logo{
+    margin-left: 1%;
+}
+.navigation{
+    float:right;
+    margin-top:10px;
+    margin-right: 10px;
+    margin-left: 5%;
+    
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(105, 183, 255);
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 10px; 
+}
